@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/russian-newspaper/static/css/main.169cb0bc.css",
+    "main.js": "/russian-newspaper/static/js/main.ef3de42d.js",
+    "index.html": "/russian-newspaper/index.html",
+    "main.169cb0bc.css.map": "/russian-newspaper/static/css/main.169cb0bc.css.map",
+    "main.ef3de42d.js.map": "/russian-newspaper/static/js/main.ef3de42d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.169cb0bc.css",
+    "static/js/main.ef3de42d.js"
+  ]
+}
