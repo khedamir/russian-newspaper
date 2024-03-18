@@ -1,0 +1,27 @@
+.posts {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 64px;
+}
+.page-title {
+  font-size: 56px;
+}
+
+.post {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 64px;
+
+  p {
+    font-size: 24px;
+    margin-top: 24px;
+  }
+
+  .back {
+    font-size: 24px;
+    font-weight: 600;
+    color: #35b566;
+    display: block;
+    margin-top: 12px;
+  }
+}

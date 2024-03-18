@@ -1,0 +1,18 @@
+.postsList {
+  margin: 24px 0;
+
+  .loadButton {
+    background-color: #35b566;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    color: black;
+    font-weight: 500;
+    font-size: 24px;
+    cursor: pointer;
+
+    &:hover {
+      opacity: 0.6;
+    }
+  }
+}
